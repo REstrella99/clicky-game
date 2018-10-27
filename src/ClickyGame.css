@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  text-align: left;
+  float: left;
+}
+
+.App-header {
+  background-color:goldenrod;
+  height: 110px;
+  padding: 10px;
+  color: black;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.App-title {
+  font-size: 1.5em;
+  float: right;
+}
+
+.App-intro {
+  font-size: large;
+}
